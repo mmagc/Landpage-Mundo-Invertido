@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
     <img width="300" src="./assets/images/banner/logo.svg">
 </p>
 
@@ -104,4 +104,4 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
     &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
     </p>
-</p>
+</p> -->
