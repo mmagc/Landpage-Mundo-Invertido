@@ -10,6 +10,19 @@
   <body class="light-theme">
     <header>
       <!-- Header da página com logo "Mundo Invertido", texto e botão Theme Switcher -->
+       <audio id="music">
+              <source src="assets/musics/normal-world.mpeg" type="audio/mpeg">
+       </audio>
+       <div class="header-content">
+          <img src="assets/images/banner/logo.svg" alt="Imagem Principal" class="invert-element">
+          <p class="ivert-element" role="text">
+            O Mundo Invertido é um lugar sombrio e misterioso, habitado por monstros e seres estranhos. 
+            Acesse o portal e descubra mais sobre esse universo paralelo.
+          </p>
+          <button id="switch-theme-button" onclick="switchTheme()">Inverter Mundos</button>
+       </div>
+
+       <div id="top-characters" class="world-characters"></div>
     </header>
 
     <main>      
